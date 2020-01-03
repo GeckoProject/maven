@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.github.geckoproject</groupId>
+  <artifactId>GeckoModuleLoader</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200103165239</lastUpdated>
+  </versioning>
+</metadata>
